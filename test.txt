@@ -2,4 +2,4 @@ issue #1
 
 first issue
 
-fixed now
+Component Design
