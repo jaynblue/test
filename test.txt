@@ -2,6 +2,6 @@ issue #1
 
 first issue
 
-Issue third
+third issue resolved
 
 Component Design
