@@ -2,4 +2,6 @@ issue #1
 
 first issue
 
+third issue
+
 Component Design
